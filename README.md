@@ -1,8 +1,6 @@
-# byandell Github
+# Brian Yandell Current Projects
 This GitHub site contains my collaborative work
 that may not fit into other GitHub Organizations.
-
-## Brian Yandell Current Projects
 
 - [Documentation](https://byandell.github.io/Documentation/) ([source](https://github.com/byandell/Documentation)): Document Digital Tools
 - Training Projects/Demos
