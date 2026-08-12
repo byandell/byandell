@@ -17,6 +17,7 @@ that don't fit into GitHub Organizations.
   - [ewing](https://byandell.github.io/ewing/) ([source](https://github.com/byandell/ewing))
   - [SystemsEthology](https://byandell.github.io/SystemsEthology/) ([source](https://github.com/byandell/SystemsEthology)): Systems Ethology Book Draft
   - [BlandEwing](https://byandell.github.io/BlandEwing/) ([source](https://github.com/byandell/BlandEwing)): Bland Ewing Book Draft
+ - [pda](https://github.com/byandell/pda): Practical Data Analysis Package for Book
 
 ## GitHub Organizations
 
