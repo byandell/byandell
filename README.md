@@ -4,15 +4,12 @@ that don't yet fit into GitHub Organizations.
 
 <details>
 <summary>Systems Genetics & Genomics</summary>
-
 [byandell-sysgen](https://github.com/byandell-sysgen)
-
 - QTL Repos
 - Mediation Repos
 - Founder Repos
 - Attie Lab Repos
 - Other Repos
-
 </details>
 <details>
 <summary>Environmental Systems</summary>
