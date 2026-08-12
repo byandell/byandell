@@ -1,6 +1,6 @@
 # byandell Github
 This GitHub site contains my collaborative work
-that don't fit into GitHub Organizations.
+that may not fit into other GitHub Organizations.
 
 ## Brian Yandell Current Projects
 
