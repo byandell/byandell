@@ -3,7 +3,9 @@ This GitHub site contains my collaborative work
 that don't yet fit into GitHub Organizations.
 
 <details>
-[<summary>byandell-sysgen</summary>](https://github.com/byandell-sysgen)
+<summary>byandell-sysgen</summary>
+
+[byandell-sysgen](https://github.com/byandell-sysgen)
 
 - QTL Repos
 - Mediation Repos
