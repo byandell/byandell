@@ -3,13 +3,14 @@ This GitHub site contains my collaborative work
 that don't yet fit into GitHub Organizations.
 
 <details>
-<summary>[byandell-sysgen](https://github.com/byandell-sysgen)</summary>
-<br>
+[<summary>byandell-sysgen</summary>](https://github.com/byandell-sysgen)
+
 - QTL Repos
 - Mediation Repos
 - Founder Repos
 - Attie Lab Repos
 - Other Repos
+
 </details>
 <details>
 <summary>[byandell-envsys](https://github.com/byandell-envsys)</summary>
