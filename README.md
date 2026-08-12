@@ -3,7 +3,7 @@ This GitHub site contains my collaborative work
 that don't yet fit into GitHub Organizations.
 
 <details>
-<summary>byandell-sysgen</summary>
+<summary>Systems Genetics & Genomics</summary>
 
 [byandell-sysgen](https://github.com/byandell-sysgen)
 
@@ -15,15 +15,22 @@ that don't yet fit into GitHub Organizations.
 
 </details>
 <details>
-<summary>[byandell-envsys](https://github.com/byandell-envsys)</summary>
+<summary>Environmental Systems</summary>
 <br>
+
+[byandell-envsys](https://github.com/byandell-envsys)
+
 - [landmapyr](https://github.com/byandell-envsys/landmapyr)
 - [EarthDataAnalytics](https://github.com/byandell-envsys/EarthDataAnalytics)
 - [nativeLand](https://github.com/byandell-envsys/nativeLand)
+
 </details>
 <details>
-<summary>[Attie Lab Systems Genetics Group](https://github.com/AttieLab-Systems-Genetics)</summary>
+<summary>Attie Lab Systems Genetics Group</summary>
 <br>
+
+[AttieLab-Systems-Genetics](https://github.com/AttieLab-Systems-Genetics)
+
 - [sysgenAnalysis](https://github.com/AttieLab-Systems-Genetics/sysgenAnalysis)
 - [sysgenDO1200](https://github.com/AttieLab-Systems-Genetics/sysgenDO1200)
 - [mkeller3Projects2](https://github.com/AttieLab-Systems-Genetics/mkeller3Projects2)
