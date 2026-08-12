@@ -7,7 +7,7 @@ that don't yet fit into GitHub Organizations.
 
 [byandell-sysgen](https://github.com/byandell-sysgen)
 
-- [QTL Repos](https://github.com/byandell-sysgen#qtl-repos)
+- QTL Repos
 - Mediation Repos
 - Founder Repos
 - Attie Lab Repos
