@@ -2,7 +2,7 @@
 This GitHub site contains my collaborative work
 that may not fit into other GitHub Organizations.
 
-- [Documentation](https://byandell.github.io/Documentation/) ([source](https://github.com/byandell/Documentation)): Document Digital Tools
+- [Document Tools](https://byandell.github.io/DocumentTools/) ([source](https://github.com/byandell/DocumentTools)): Document Digital Tools
 - Training Projects/Demos
   - [esiil-stars](https://byandell.github.io/esiil-stars/) ([source](https://github.com/byandell/esiil-stars)): ESIIL Stars Training Program
   - [geyser](https://byandell.github.io/geyser/) ([source](https://github.com/byandell/geyser)): Geyser Shiny Module Demo
