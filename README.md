@@ -5,6 +5,8 @@ that may not fit into other GitHub Organizations.
 - [Document Tools](https://byandell.github.io/DocumentTools/) ([source](https://github.com/byandell/DocumentTools)): Document Digital Tools
 - Training Projects/Demos
   - [esiil-stars](https://byandell.github.io/esiil-stars/) ([source](https://github.com/byandell/esiil-stars)): ESIIL Stars Training Program
+  - [TCUP-Hub](https://byandell.github.io/TCUP_Hub):
+  [Tribal Colleges and Universities Program (TCUP)](https://www.nsf.gov/funding/opportunities/tcup-tribal-colleges-universities-program)
   - [geyser](https://byandell.github.io/geyser/) ([source](https://github.com/byandell/geyser)): Geyser Shiny Module Demo
   - [scattyr](https://byandell.github.io/scattyr/) ([source](https://github.com/byandell/scattyr)): Scatter Plots with R and Python
   - [rainDrought](https://github.com/byandell/rainDrought) ([source](https://github.com/byandell/rainDrought)): Scatter Plots for Cumulative Measures
